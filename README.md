@@ -1,1 +1,1 @@
-# Getting-Started-With-SQL-and-BigQuery-
+# Intro to SQL - Kaggle
