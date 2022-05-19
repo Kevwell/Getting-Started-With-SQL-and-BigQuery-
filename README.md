@@ -1,1 +1,1 @@
-# Intro to SQL - Kaggle
+# Jupiter Notebooks from Kaggle
